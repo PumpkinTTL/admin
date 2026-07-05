@@ -475,10 +475,10 @@ const messages = {
       },
     },
     admin: {
-      brand: 'Dujiao-Next Admin',
+      brand: 'Auris Admin',
       layout: {
-        controlRoom: 'Dujiao-Next Admin 控制台',
-        workspace: 'Dujiao-Next Admin 后台',
+        controlRoom: 'Auris Admin 控制台',
+        workspace: 'Auris Admin 后台',
         navigation: '导航菜单',
         collapseSidebar: '收起侧边栏',
         expandSidebar: '展开侧边栏',
@@ -4685,10 +4685,10 @@ const messages = {
       },
     },
     admin: {
-      brand: 'Dujiao-Next Admin',
+      brand: 'Auris Admin',
       layout: {
-        controlRoom: 'Dujiao-Next Admin 控制台',
-        workspace: 'Dujiao-Next Admin 後台',
+        controlRoom: 'Auris Admin 控制台',
+        workspace: 'Auris Admin 後台',
         navigation: '導航選單',
         collapseSidebar: '收起側邊欄',
         expandSidebar: '展開側邊欄',
@@ -8895,10 +8895,10 @@ const messages = {
       },
     },
     admin: {
-      brand: 'Dujiao-Next Admin',
+      brand: 'Auris Admin',
       layout: {
-        controlRoom: 'Dujiao-Next Admin Control Panel',
-        workspace: 'Dujiao-Next Admin Workspace',
+        controlRoom: 'Auris Admin Control Panel',
+        workspace: 'Auris Admin Workspace',
         navigation: 'Navigation',
         collapseSidebar: 'Collapse sidebar',
         expandSidebar: 'Expand sidebar',
